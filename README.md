@@ -1,7 +1,7 @@
 # Help-Blind-Web-App
 a streamlit web app that can help blind
 
-## Install
+## Installation
 
 ### For tensorflow
 use this command to install everything tensorflow need:
