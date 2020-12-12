@@ -23,6 +23,6 @@ streamlit run HelpBlind.py
 ```
 
 # What it does?
-- It can help to detect what is the object in front of the blinds
-- It can help to detect text and convert to speech
+- It can help to detect object in front of the blinds and instruct it to go left or go right.
+- It can help to detect text and convert to speech.
 
