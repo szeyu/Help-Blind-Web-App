@@ -1,4 +1,4 @@
-# Help-Blind-Web-App
+# Help-Blind-Web-App :sunglasses:
 a streamlit web app that can help blind
 
 ## Installation
