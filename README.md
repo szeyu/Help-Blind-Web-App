@@ -26,3 +26,5 @@ streamlit run HelpBlind.py
 - It can help to detect object in front of the blinds and instruct him/her to go left or go right.
 - It can help to detect text and convert to speech.
 
+# Demo
+(add link here)
