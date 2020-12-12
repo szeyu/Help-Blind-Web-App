@@ -8,6 +8,8 @@ use this command to install everything tensorflow need:
 ```
 pip install pillow Cython lxml jupyter matplotlib contextlib2 tf_slim
 ```
+for more information about tensor flow can find out in https://www.mygreatlearning.com/blog/object-detection-using-tensorflow/
+
 ### Requirement
 use this command to install all the requirement:
 ```
