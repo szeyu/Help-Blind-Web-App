@@ -19,3 +19,8 @@ use this command to run in streamlit:
 ```
 streamlit run HelpBlind.py
 ```
+
+# What it does?
+- It can help to detect what is the onject in front of the blinds
+- It can help to detect text and covert to speech
+
