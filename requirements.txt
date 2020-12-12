@@ -1,2 +1,4 @@
-gTTs
-easyocr
+gTTs==1.1.8
+easyocr==1.2.1
+python==3.8.5
+tensorflow==2.3.0
